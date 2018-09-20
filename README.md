@@ -10,3 +10,4 @@ Collection of useful links. Feel free to use.
 ## R
 
 - [R for Data Science](http://r4ds.had.co.nz/)
+- [R Markdown](https://bookdown.org/yihui/rmarkdown/)
