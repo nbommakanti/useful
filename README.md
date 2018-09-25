@@ -11,3 +11,8 @@ Collection of useful links. Feel free to use.
 
 - [R for Data Science](http://r4ds.had.co.nz/)
 - [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+
+### ggplot2
+
+- http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+- https://cfss.uchicago.edu/lab03.html
