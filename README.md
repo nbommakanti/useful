@@ -12,8 +12,10 @@ Collection of useful links. Feel free to use.
 - [R for Data Science](http://r4ds.had.co.nz/)
 - [R Markdown](https://bookdown.org/yihui/rmarkdown/)
 
-### ggplot2
+### Data visualization
 
+- [Data Visualization Kieran Healy](https://socviz.co/index.html#preface)
+- [Fundamentals of Data Visualization, Claus O. Wilke](https://serialmentor.com/dataviz/)
 - http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 - https://cfss.uchicago.edu/lab03.html
 - [Arrange plots](https://stackoverflow.com/questions/7993722/creating-arbitrary-panes-in-ggplot2/51220506#51220506)
