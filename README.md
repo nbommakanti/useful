@@ -27,3 +27,4 @@ Collection of useful links. Feel free to use.
 - http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 - https://cfss.uchicago.edu/lab03.html
 - [Arrange plots](https://stackoverflow.com/questions/7993722/creating-arbitrary-panes-in-ggplot2/51220506#51220506)
+  - Personal favorite: [patchwork](https://github.com/thomasp85/patchwork)
