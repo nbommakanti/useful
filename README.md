@@ -32,4 +32,4 @@ Collection of useful links. Feel free to use.
 ### Deep Learning
 - [Tensorflow for R blog](https://blogs.rstudio.com/tensorflow/)
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
-- [Deep Learning with R](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X) (paid resource but the book is a good buy))
+- [Deep Learning with R](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X) (paid resource but the book is a good buy)
