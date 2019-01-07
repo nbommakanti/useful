@@ -17,6 +17,10 @@ Collection of useful links. Feel free to use.
   - Personal favorite: [patchwork](https://github.com/thomasp85/patchwork)
   
   
+## Python
+
+- [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+
 ## Statistics
 
 - [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
