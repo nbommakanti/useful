@@ -20,6 +20,7 @@ Collection of useful links. Feel free to use.
 ## Python
 
 - [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+- [Tidyverse-style Pandas](https://stmorse.github.io/journal/tidyverse-style-pandas.html)
 
 ## Statistics
 
