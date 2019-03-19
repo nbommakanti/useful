@@ -4,6 +4,7 @@ Collection of useful links. Feel free to use.
 
 ## R
 
+- [Project-oriented workflow(https://www.tidyverse.org/articles/2017/12/workflow-vs-script/): Best practices which streamline managing multiple projects, collaboration, reproducibility, etc.
 - [R for Data Science](http://r4ds.had.co.nz/)
 - [R Markdown](https://bookdown.org/yihui/rmarkdown/)
 
