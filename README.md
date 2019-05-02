@@ -18,15 +18,16 @@ Collection of useful links. Feel free to use.
   - Personal favorite: [patchwork](https://github.com/thomasp85/patchwork)
   
   
-## Python
-
-- [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
-- [Tidyverse-style Pandas](https://stmorse.github.io/journal/tidyverse-style-pandas.html)
-
 ## Statistics
 
 - [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 - Anything from the [IDRE](https://stats.idre.ucla.edu/other/dae/)
+
+### Bayesian Statistics
+- [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
+  - [Lecture series](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
+  - [Tidyverse translation](https://bookdown.org/connect/#/apps/1850/access)
+ - [Introduction to Empirical Bayes - David Robinson](https://gumroad.com/l/empirical-bayes)
 
 ### Linear mixed models: 
 - https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/
@@ -39,3 +40,8 @@ Collection of useful links. Feel free to use.
 - [Tensorflow for R blog](https://blogs.rstudio.com/tensorflow/)
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 - [Deep Learning with R](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X) (paid resource but the book is a good buy)
+
+## Python
+
+- [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
+- [Tidyverse-style Pandas](https://stmorse.github.io/journal/tidyverse-style-pandas.html)
