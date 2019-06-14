@@ -28,6 +28,7 @@ Collection of useful links. Feel free to use.
   - [Lecture series](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
   - [Tidyverse translation](https://bookdown.org/connect/#/apps/1850/access)
  - [Introduction to Empirical Bayes - David Robinson](https://gumroad.com/l/empirical-bayes)
+ - [A Student's Guide to Bayesian Statistics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
 
 ### Linear mixed models: 
 - https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/
