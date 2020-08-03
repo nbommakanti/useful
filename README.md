@@ -44,5 +44,6 @@ Collection of useful links. Feel free to use.
 
 ## Python
 
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Tidy Data in Python](http://www.jeannicholashould.com/tidy-data-in-python.html)
 - [Tidyverse-style Pandas](https://stmorse.github.io/journal/tidyverse-style-pandas.html)
